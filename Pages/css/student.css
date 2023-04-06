@@ -1,0 +1,81 @@
+body{
+    BACkGROUND-COLOR: rgb(232, 237, 238);
+}
+.menubar{
+    BACkGROUND-COLOR:white;
+    height: 700px;
+
+}
+.flex-container{
+    display:flex;
+}
+.flex-container >div{
+    text-align:left;
+    width:150px;
+    BACkGROUND-COLOR:white;
+    margin:10px;
+}
+.top-container {  display:flex;
+   
+}
+.top-container >div{
+    text-align:left;
+    width:150px;
+    margin:10px;
+    padding:50px;
+    
+}
+
+
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 40px;
+}
+
+td, th {
+    border: 5px solid white;
+    text-align: left;
+    padding: 8px;
+    background-color:gray;
+    text-align: center;
+}
+td{
+    border: 5px solid white;
+    text-align: left;
+    padding: 8px;
+    background-color: lightgray;
+
+}
+
+
+.bt2{
+
+background-color:white;
+padding:20px 80px;
+font-size: 20px;
+border: none;
+
+}
+ .bt1{
+    background-color: blue;
+    border: none;
+    padding:10px 70px;
+    border-radius: 50px;
+    color: white;
+ }
+p{
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    
+}
+h3{
+    margin-left: 20px;
+}
+.h31
+{
+   text-align: center; 
+}
